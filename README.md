@@ -31,8 +31,9 @@ Virtual Network Company (SAVN).
 - Carlos-S19-S1, with AD DS and DNS, helps locate network resources and controls security access to these network resources.
 - Carlos-S19-S2 holds the data that Carlos-W10-C1’s applications require.
 
-### 
- 
+### Screenshots
+1. Illustrate each of your three VMs IP configuration.
+2. Illustrate a successful pinging of each VM to all other VMs.
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 
