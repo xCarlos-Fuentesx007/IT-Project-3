@@ -10,12 +10,12 @@ Install and configure several different virtual computers into a network that wi
 ## Executive Summary
 
 ### Scenario
-• Build a virtual demonstration network named SAVN.local for a fictitious company, System Administration
+- Build a virtual demonstration network named SAVN.local for a fictitious company, System Administration
 Virtual Network Company (SAVN).
-• SAVN is a virtual (fictitious) company headquartered in Orlando. In the past, the company has relied on several independent desktop
+- SAVN is a virtual (fictitious) company headquartered in Orlando. In the past, the company has relied on several independent desktop
 computers to manage their assets. SAVN has grown, and management has come to realize that the company could benefit by implementing a network.
-• As the IT manager for SAVN, implementing the network will be your responsibility.
-• As a user of Microsoft software, SAVN will build its network around Microsoft Windows Server 2019. SAVN utilizes Microsoft Windows 10 as its desktop operating system of choice.
+- As the IT manager for SAVN, implementing the network will be your responsibility.
+- As a user of Microsoft software, SAVN will build its network around Microsoft Windows Server 2019. SAVN utilizes Microsoft Windows 10 as its desktop operating system of choice.
 
 ### 
 
