@@ -25,9 +25,9 @@ Virtual Network Company (SAVN).
 - These machines will communicate with one another over a local virtual network.
 
 ### Roles
-1. _Carlos-S19-S1_ is the virtual machine that is the **domain controller**, the server that responds to security authentication requests within the Windows Server 2019 domain, and manages the **savn.local** domain.
-2. _Carlos-S19-S2_ will serve as a **file server.** It is the computer system responsible for the central storage and management of data files so that other computers on the **savn.local** network can access these files.
-3. _Carlos-W01-C1_ is a desktop client that will use software applications to access various system resources, including folders, and files on the network file server (Carlos-S19-S2).
+1. **_Carlos-S19-S1_** is the virtual machine that is the _domain controller_, the server that responds to security authentication requests within the Windows Server 2019 domain, and manages the savn.local domain.
+2. **_Carlos-S19-S2_** will serve as a _file server._ It is the computer system responsible for the central storage and management of data files so that other computers on the savn.local network can access these files.
+3. **_Carlos-W01-C1_** is a _desktop client_ that will use software applications to access various system resources, including folders, and files on the network file server (Carlos-S19-S2).
 - Carlos-S19-S1, with AD DS and DNS, helps locate network resources and controls security access to these network resources.
 - Carlos-S19-S2 holds the data that Carlos-W10-C1’s applications require.
 
