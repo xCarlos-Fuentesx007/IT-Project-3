@@ -6,9 +6,9 @@ To create and configure a small network of computers to be used for practicing s
 ### Description
 Install and configure several different virtual computers into a network that will be used in subsequent projects for practicing various system administration activities.
 
-### Virtualization Software
-[Oracle VM VirtualBox](https://www.virtualbox.org/)
-
+### Softwares
+[x] [Oracle VM VirtualBox](https://www.virtualbox.org/)
+[x] [.ISO Images](https://azureforeducation.microsoft.com/devtools) - Windows Server 2019 & Windows 10
 ------------------------------------------------------------------------------------------------------------------------------------------
 ## Executive Summary
 
